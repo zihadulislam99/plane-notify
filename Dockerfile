@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.11.0rc2-slim
 
 WORKDIR /plane-notify
 
